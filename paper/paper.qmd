@@ -7,7 +7,7 @@ format:
 
 # [Welcome Matthew Wang!!]{style="color:#0d5d56"} 👋
 
-*Use the apple tv remote to scroll through this page*
+*This is a repeating slideshow*
 
 ## [I'm your roommate, Zach and I look forward to getting to know you!]{style="color:#0c8346"} 😄✌️
 
