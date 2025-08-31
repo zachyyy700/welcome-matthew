@@ -1,31 +1,31 @@
 ---
-title: "Welcome Matthew"
+title: "Apt #1219"
 format:
   html:
     output-file: "index.html"
 ---
 
-# Welcome [Matthew Wang!!]{style="color:#0d5d56"}
+# [Welcome Matthew Wang!!]{style="color:#0d5d56"} 👋
 
 *Use the apple tv remote to scroll through this page*
 
-## I'm your roommate, [Zach]{style="color:#0c8346"} and I look forward to getting to know you!
+## [I'm your roommate, Zach and I look forward to getting to know you!]{style="color:#0c8346"} 😄✌️
 
 *If you're reading this, I'm out doing something so let this be our short introduction haha*
 
-# First, about me!:
+# [First, about me]{style="color:#0d5d56"} ‼️:
 
-![](https://zachyyy700.github.io/welcome-matthew/pictures/zach.png)
+| ![](https://zachyyy700.github.io/welcome-matthew/pictures/zach.png){width=200} | 
+| ------------------------------------------------------------------------------- |
+| 1. I'm from Hawai'i 🌺 <br> 2. I enjoy surfing, reading, gaming, music ☀️🌱 <br> 3. Graduate Program: Masters of Environmental Data Science <br> &nbsp;&nbsp;- Undergrad: B.S. Global Environmental Science <br> 4. I have a twin sister <br> 5. Love cats <br> 6. My lease here is only one year 🍀 |
 
-1.  I'm from Hawai'i
 
-2.  Graduate Program: Masters of Environmental Data Science
+# [Second, my schedule for weekdays is:]{style="color:#329f5b"}
 
-    -   Undergrad: B.S. Global Environmental Science
+1.  Wake up around **7am**, sleep around **11pm**
 
-3. I enjoy reading, gaming, music
+    -   I have class from **10am-4pm** in downtown Santa Barbara
 
-#### Second, I have a couple things that I don't use but thought to keep around in case you wanted them:
+### [Hope you have a good time settling in and looking forward to living with you!]{style="color:#DA827E"}
 
-1.  Toaster
-2.  Dish rack
+Let me know if you need anything/have any questions
